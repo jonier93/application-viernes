@@ -1,0 +1,32 @@
+html {
+    background-color: aqua;
+}
+
+#header {
+    text-align: center;
+}
+
+label {
+    position: absolute;
+    left: 40%;
+    font-size: 20px;
+}
+
+input, button {
+    position: absolute;
+    left:50%;
+    font-size: 20px;
+}
+
+img {
+    height:150px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 0.5%;
+    border-radius: 10%;
+}
+
+
